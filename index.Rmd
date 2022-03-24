@@ -29,7 +29,7 @@ I am a research fellow in medical statistics at the *University Paris-Cité*, me
 
 Previously, I was a research fellow at the *London School of Hygiene and Tropical Medicine* where I have worked on the issue of missing data when using propensity score based methods to do causal inference from observational data. My PhD was done at the *University of Bordeaux* and aimed at building nonlinear mixed models with random changepoint to describe cognitive decline trajectories of elder people. Since then, I have also taught statistics mainly at MSc level to epidemiology, health data science, engineer and psychology students.
 
-## Field of interest
+## Fields of interest
 
 Causal inference | Machine learning | Observational data | Mixed models
 
