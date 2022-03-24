@@ -1,2 +1,2 @@
 # crsgls.github.io
-Personal website
+Personal website generated using postcards.
