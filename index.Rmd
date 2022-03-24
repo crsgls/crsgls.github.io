@@ -13,7 +13,7 @@ links:
     url: "https://orcid.org/0000-0002-6902-003X"
   - label: Github
     url: "https://github.com/crsgls/"  
-  - label: Phd
+  - label: Phd thesis
     url: "http://theses.fr/2019BORD0298"
   - label: HAL
     url: "https://cv.archives-ouvertes.fr/corentin-segalas"
