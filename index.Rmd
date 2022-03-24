@@ -1,0 +1,31 @@
+---
+title: "Corentin Ségalas"
+image: "corentin.jpg"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
+links:
+  - label: Linkedin
+    url: "https://linkedin.com/"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=hASyJFUAAAAJ&hl=fr&oi=ao"
+  - label: ORCID
+    url: "https://orcid.org/0000-0002-6902-003X"
+  - label: Github
+    url: "https://github.com/crsgls/"  
+  - label: Phd dissertation
+    url: "http://theses.fr/2019BORD0298"
+output:
+  postcards::solana # onofre, solana, jolla
+---
+ 
+## Bio
+
+I am a research fellow in medical statistics at the *University Paris-Cité*, member of the *METHODS* team of the *CRESS* research center. My work focus on comparing statistical methods to personalize the duration of a treatment using observational data. 
+
+Previously, I was a research fellow at the *London School of Hygiene and Tropical Medicine* where I have worked on the issue of missing data when using propensity score based methods to do causal inference from observational data. My PhD was done at the *University of Bordeaux* and aimed at building nonlinear mixed models with random changepoint to describe cognitive decline trajectories of elder people. Since then, I have also taught statistics mainly at MSc level to epidemiology, health data science, engineer and psychology students.
+
+## Field of interest
+
+Causal inference | Machine learning | Observational data | Mixed models
+
