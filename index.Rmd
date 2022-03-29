@@ -33,3 +33,6 @@ Previously, I was a research fellow at the *London School of Hygiene and Tropica
 
 Causal inference | Machine learning | Observational data | Mixed models
 
+## Contact
+
+Feel free to reach me by email: corentin.segalas[at]inserm.fr
