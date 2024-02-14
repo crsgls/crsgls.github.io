@@ -1,2 +1,3 @@
 # crsgls.github.io
-Academic page
+
+Files for my academic page, done using Quarto.
